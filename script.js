@@ -10,5 +10,5 @@ function checkGuess() {
     output.innerHTML = "Hotter";
   } else {
     output.innerHTML = "Colder!";
-  }
+  }
 }
